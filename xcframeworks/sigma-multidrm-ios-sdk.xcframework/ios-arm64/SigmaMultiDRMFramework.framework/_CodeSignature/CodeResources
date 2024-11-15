@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/SigmaMultiDRM.h</key>
+		<data>
+		ocykCVRbPc+jSP7zlgJb4ljsGBw=
+		</data>
 		<key>Headers/SigmaMultiDRMFramework.h</key>
 		<data>
 		APn5+2xz2TElsp6aiyqgPSO13YA=
@@ -16,13 +20,16 @@
 		<data>
 		Ok8X0X4TCE6vKwBh2O8i+IoOoIA=
 		</data>
-		<key>SigmaMultiDRM.h</key>
-		<data>
-		ocykCVRbPc+jSP7zlgJb4ljsGBw=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/SigmaMultiDRM.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XZUmGHoU5BQq7WkZzbCVOT+b8ltytE+NMPocym4U0sg=
+			</data>
+		</dict>
 		<key>Headers/SigmaMultiDRMFramework.h</key>
 		<dict>
 			<key>hash2</key>
@@ -35,13 +42,6 @@
 			<key>hash2</key>
 			<data>
 			rExEWv2MBtotopcOkuae2NWVbnObZ4IDutBRtWRvoJc=
-			</data>
-		</dict>
-		<key>SigmaMultiDRM.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XZUmGHoU5BQq7WkZzbCVOT+b8ltytE+NMPocym4U0sg=
 			</data>
 		</dict>
 	</dict>
