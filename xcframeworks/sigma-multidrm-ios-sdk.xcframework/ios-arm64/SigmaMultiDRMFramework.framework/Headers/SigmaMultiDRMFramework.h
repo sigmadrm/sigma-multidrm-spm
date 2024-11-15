@@ -16,4 +16,4 @@ FOUNDATION_EXPORT const unsigned char SigmaMultiDRMFrameworkVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <SigmaMultiDRMFramework/PublicHeader.h>
 
 
-#import <SigmaMultiDRMFramework/SigmaMultiDRM.h>
+#import "SigmaMultiDRM.h"
