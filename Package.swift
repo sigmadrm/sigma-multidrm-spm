@@ -9,7 +9,7 @@ let package = Package(
     products: [
         .library(
             name: "SigmaMultiDRM",
-            targets: ["SigmaMultiDRM", "SigmaMultiDRMFramework"]),
+            targets: ["SigmaDRM", "SigmaMultiDRMFramework"]),
     ],
     dependencies: [],
     targets: [
@@ -18,7 +18,7 @@ let package = Package(
             path: "xcframeworks/sigma-multidrm-ios-sdk.xcframework"
         ),
         .target(
-            name: "SigmaMultiDRM"
+            name: "SigmaDRM"
         ),
     ]
 )
