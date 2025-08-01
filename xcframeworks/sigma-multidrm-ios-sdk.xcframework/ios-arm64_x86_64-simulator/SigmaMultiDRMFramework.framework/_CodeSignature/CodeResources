@@ -6,11 +6,15 @@
 	<dict>
 		<key>Headers/SigmaMultiDRM.h</key>
 		<data>
-		z+TR1d4e1WOdiCuZjsa/+FZQ5Os=
+		aCAD5XmdhUt1FEh7np/v0QfWys8=
+		</data>
+		<key>Headers/SigmaMultiDRMDelegate.h</key>
+		<data>
+		/+k/t7Kfilh3jBlPqwfjNA3tib8=
 		</data>
 		<key>Headers/SigmaMultiDRMFramework.h</key>
 		<data>
-		APn5+2xz2TElsp6aiyqgPSO13YA=
+		SYhiyGtgNWf7LsH8UBKdDTVaSw0=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -27,14 +31,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MMy9WVFM/dTeDPYLks7lB+E/tCjQ4fhjV5w6+j6sLCA=
+			I7ZsH5xCGhupivYObNqD98TWRkHWbfdZ7LezX/z8w0M=
+			</data>
+		</dict>
+		<key>Headers/SigmaMultiDRMDelegate.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UggiQVXOaatHE2VFLl6XonPg5hfdCgmaEYrr+QCg6m8=
 			</data>
 		</dict>
 		<key>Headers/SigmaMultiDRMFramework.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SKAsSZwDplzeOp62MNP2ZAeXX9GOq15hYT11IhPTUWo=
+			u8djvvBKte6+vdkAHJMsvsqfilTD2VYPzUk1ZuLo9ks=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
