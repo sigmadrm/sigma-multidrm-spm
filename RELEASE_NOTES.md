@@ -1,5 +1,25 @@
 # SigmaMultiDRM SPM - Release Notes
 
+## v1.0.5 (August 25, 2025)
+
+### ✨ New Features
+
+- **tvOS Platform Support**: Added official support for Apple tvOS platform
+  - Enabled tvOS target in Swift Package (`Package.swift`)
+  - Ensured XCFramework compatibility for tvOS
+  - Verified public APIs are available across iOS and tvOS
+
+### 📄 API/Package Changes
+
+- Updated `Package.swift` platforms to include tvOS
+- No breaking API changes; source-compatible with previous versions
+
+### 🔧 Technical Improvements
+
+- Unified build settings for iOS and tvOS
+
+---
+
 ## v1.0.4 (August 1, 2025)
 
 ### ✨ New Features
@@ -89,7 +109,7 @@
   - AVURLAsset creation with DRM protection via `assetWithUrl:`
   - User identification and session management support
 
-### 📄 Core API Features 
+### 📄 Core API Features
 
 - **User Management**:
 
@@ -125,6 +145,7 @@ https://github.com/your-org/sigma-multidrm-spm.git
 - iOS 9.0+
 - Xcode 12.0+
 - Swift 5.3+
+- tvOS 9.0+
 
 ## Support
 
