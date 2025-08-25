@@ -1,0 +1,6 @@
+framework module SigmaMultiDRMFramework {
+  umbrella header "SigmaMultiDRMFramework.h"
+
+  export *
+  module * { export * }
+}
